@@ -1,1 +1,0 @@
-## Offline on BST specifications
